@@ -8,9 +8,6 @@ This is a simple implementation of the Tic-Tac-Toe Game using Java.
 3. Run the code.
 4. Player 1 gets 'X' and Player 2 gets 'O'.
 5. Each player has to choose the position (1-9).
-1 | 2 | 3
-4 | 5 | 6
-7 | 8 | 9
 6. Enjoy!
 
 ## License
